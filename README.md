@@ -1,6 +1,6 @@
 # react-manager
 
-这是一个运用react+redux+webpack为主流框架搭建的后台框架。其中用react来搭建前端页面，以redux来实现页面间的数据共享与一致性，webpack打包部署。
+这是一个运用react+redux+webpack为主流框架搭建的前端项目的后台框架。其中用react来搭建前端页面，以redux来实现页面间的数据共享与一致性，webpack打包部署。
 
 性能方面：
 1.路由采用按需分割加载，大大缩短首屏加载等待时间。
